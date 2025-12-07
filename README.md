@@ -12,7 +12,9 @@ Ce dépôt contient :
 - Un **README** expliquant la démarche DevOps suivie
 
 Arborescence :
-<img width="385" height="404" alt="image" src="https://github.com/user-attachments/assets/e3a83340-0c89-4cfd-b640-84df43bd2dd8" />
+
+<img width="899" height="400" alt="image" src="https://github.com/user-attachments/assets/fe76431a-62f0-4828-9806-9cd3854fa269" />
+
 
 
 
