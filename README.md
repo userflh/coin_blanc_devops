@@ -15,7 +15,7 @@ Arborescence :
 
 <img width="899" height="400" alt="image" src="https://github.com/user-attachments/assets/fe76431a-62f0-4828-9806-9cd3854fa269" />
 
-##📝 2. Rapport succinct
+## 📝 2. Rapport succinct
 🧩 Difficultés rencontrées et solutions apportées
 1️⃣ Problème : Le site affichait la page par défaut de NGINX
 
