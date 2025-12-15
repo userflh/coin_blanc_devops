@@ -1,7 +1,7 @@
 # coin_blanc_devops
 Coin Blanc est un site web e-commerce moderne dédié à la décoration intérieure, au design d’espace et au mobilier contemporain. Ce projet utilise HTML, CSS et JavaScript pour offrir une interface simple, élégante et intuitive adaptée aux utilisateurs cherchant à transformer leur espace de vie.
 
-# 🧩 Projet DevOps – Déploiement d’un site statique avec Docker & GitHub Actions
+# Projet DevOps – Déploiement d’un site statique avec Docker & GitHub Actions
 
 ## 📁 1. Structure du dépôt
 
@@ -16,7 +16,7 @@ Arborescence :
 <img width="899" height="400" alt="image" src="https://github.com/user-attachments/assets/fe76431a-62f0-4828-9806-9cd3854fa269" />
 
 ## 📝 2. Rapport succinct
-### 🧩 Difficultés rencontrées et solutions apportées
+### Difficultés rencontrées et solutions apportées
 1️⃣ Problème : Le site affichait la page par défaut de NGINX
 
 Cause :  Le fichier principal du site web n’était pas nommé index.html, qui est le point d’entrée par défaut attendu par NGINX. En l’absence de ce fichier, le serveur suppose que le site n’est pas correctement configuré et affiche automatiquement sa page par défaut.
